@@ -1,7 +1,7 @@
 # rigstarter
 Manager program for your mining rig. Manual reboot through the use of  a gui with buttons and messages about the status of your gpus. Auto quick reboot in case of crash of the system. No root access needed.
 
-The rigstarter is a program i made while trying to fix my seldom pc crash while mining. While still i am not sure exactly what is happening, auto reboot is surely the method to restart your rig work as soon as possible.
+The rigstarter is a program i made while trying to fix my seldom pc crash while mining. While still i am not sure exactly what is happening, auto reboot is surely the method to restart your rig work as soon as possible. Only for AMDGPU drivers.
 
 Whats new in version 0.1
 In the first release there is a minimal gui which gives the actual status of your system (2 gpus support at the moment) and in case one gpu crash the system will auto reboot without waiting the miner (LOLminer, Redteamniner, Phoenixminer, etcetera) to give the reboot signal to the os.
