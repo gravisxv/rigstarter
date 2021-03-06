@@ -12,6 +12,8 @@ HOW TO USE (For Manjaro only at the moment but should work with other distros as
 pacman -S tk
 
 -Put the main.py script into the folder of your miner (or whatever directory)
+
 -Launch the console with right click, then terminal. Once inside simply input: python main.py
+
 -In order to make this auto-bootable open the menu 'Session and startup', add in Application Autostart tab a new application with name 'rigstarter' and command 'python /pathofscript/'.
 
