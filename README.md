@@ -7,6 +7,7 @@ Whats new in version 0.1
 In the first release there is a minimal gui which gives the actual status of your system (2 gpus support at the moment) and in case one gpu crash the system will auto reboot without waiting the miner (LOLminer, Redteamniner, Phoenixminer, etcetera) to give the reboot signal to the os.
 
 HOW TO USE (For Manjaro only at the moment but should work with other distros as well)
+
 -Install TK:
 pacman -S tk
 
